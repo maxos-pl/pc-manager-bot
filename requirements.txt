@@ -1,3 +1,3 @@
-aiogram==3.0.0b6
-requests
+aiogram==2.25.1
 python-dotenv
+requests
